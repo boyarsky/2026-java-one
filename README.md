@@ -17,7 +17,7 @@ If you are using the Java playground, remove the main() method declaration and h
 import java.util.Random;
 import java.util.Set;
 
-public class exercise1.Exercise1 {
+public class Exercise1 {
 
     public static class Airplane {
         private static final Set<String> SF_AIRPORTS = Set.of("SFO", "SJC", "OAK");
