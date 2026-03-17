@@ -12,12 +12,12 @@ You can use https://dev.java/playground/ as indicated for most of exercise 1 and
 
 If you are using the Java playground, remove the main() method declaration and have the contents of the main method as loose code. Ignore anything about running from the command line.
 
-1. Copy the following code into a file named exercise1.Exercise1.jaa
+1. Copy the following code into a file named exercise1.Exercise1.java
 ```
 import java.util.Random;
 import java.util.Set;
 
-public class exercise1.Exercise1 {
+public class Exercise1 {
 
     public static class Airplane {
         private static final Set<String> SF_AIRPORTS = Set.of("SFO", "SJC", "OAK");
