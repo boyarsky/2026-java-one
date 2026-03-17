@@ -12,7 +12,7 @@ You can use https://dev.java/playground/ as indicated for most of exercise 1 and
 
 If you are using the Java playground, remove the main() method declaration and have the contents of the main method as loose code. Ignore anything about running from the command line.
 
-1. Copy the following code into a file named exercise1.Exercise1.jaa
+1. Copy the following code into a file named exercise1.Exercise1.java
 ```
 import java.util.Random;
 import java.util.Set;
