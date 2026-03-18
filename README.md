@@ -64,7 +64,7 @@ public class Exercise1 {
     public static void main(String[] args) {
         try {
             var airplane = new Airplane();
-            System.out.println(airplane.getFlightLength);
+            System.out.println(airplane.getFlightLength());
         } catch(@SuppressWarnings("unused") IllegalArgumentException e) {
             System.out.println("random number is no good");
         }
@@ -199,4 +199,4 @@ void main() {
 ```
 2. Identify the variable in equals() that can be an unnamed variable and switch it to an underscore.
 3. Create a method named switchExpression that does the same thing as traditional() but uses the newer arrow syntax.
-4. Bonus: Write a method switchExpressionWithRecord using a switch expression (including when clause) that reutnrs true if later than hour 10 on weekends or later than hour 17 on weekdays.
+4. Bonus: Write a method switchExpressionWithRecord using a switch expression (including when clause) that returns true if later than hour 10 on weekends or later than hour 17 on weekdays.
