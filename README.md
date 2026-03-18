@@ -91,7 +91,7 @@ This exercise cannot be done in the Java playground.
 3. Run it as Exercise2a.java. Notice how Airplane is found and no .class files are created.
 4. Create Exercise2b.java with the same contents as Exercise2a.java and add a class declartion.
 5. Run it as Exercise2b.java and note that it also runs without creating any .class files
-6. Bonus: Add a private default constructor to Exercise2b and run java Exercise2b again. Do you understand why it works?
+6. Bonus: Add a private default constructor to Exercise2b and run java Exercise2b again. Do you understand the behavior?
 7. Bonus: Add a parameter to the constructor in Exercise2b and run java Exercise2b again. Do you understand why it fails?
 8. Bonus: Finally, add static to the main method and run java Exercise2b.java. Do you understand why it now works?
 
